@@ -1,4 +1,6 @@
 # TOOLIS-APP
+"Toolis - The Novel Writing Companion. Take your writing to the next level with Toolis, the innovative app designed specifically for novel writers. Write on the go, track your daily progress, and bring your literary masterpiece to life with ease. With Toolis, you can set a daily writing goal of up to 1000 words and let our app guide you on your writing journey. Whether you're a seasoned author or just starting out, Toolis will help you achieve your writing goals and take your novel to the next level. So why wait? Download Toolis today and start writing your next bestseller!
+Toolis - The Ultimate Text Editor for Novel Writing. Unleash your creativity and bring your novel writing dreams to life with Toolis - the innovative app that combines a powerful text editor with the tools you need to write and manage your novel. With its user-friendly interface and customizable writing goals, Toolis makes writing a novel effortless and enjoyable."
 
 
 ![215963023-c858b912-cae9-41e5-9185-3664493d0e7d](https://user-images.githubusercontent.com/121944629/216033069-7ab1bace-d686-41be-a802-0dec7aa3e5c9.png)
